@@ -33,7 +33,10 @@ class FileUpload(object):
 
  
 if __name__ ==  "__main__":
-
+    # Logo
+    st.image('./WESW Logo.png')
+    
+    # Title
     st.header("Watsonville Environmental Workshop Monthly Report Visualizer")
 
     helper = FileUpload()
