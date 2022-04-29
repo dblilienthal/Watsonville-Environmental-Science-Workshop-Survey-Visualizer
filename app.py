@@ -44,6 +44,9 @@ if __name__ ==  "__main__":
     data = helper.run()
     # If the data has been populated
     if data.shape != (0,0):
+
+        ### Snapshot of the dataset
+        st.caption('Snapshot of uploaded dataset')
         st.dataframe(data.head(10))
 
         ### Sidebar code
