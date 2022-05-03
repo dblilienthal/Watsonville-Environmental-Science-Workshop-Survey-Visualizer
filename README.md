@@ -12,6 +12,6 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 <hr>
 
 ## Project Team
-Derek Lilienthal
-Kathryn Gross
-Andrew Cline
+- [Derek Lilienthal](https://github.com/dblilienthal) / dblilienthal
+- [Andrew Cline](https://github.com/andrew-m-cline) / andrew-m-cline
+- [Kathryn Grose](https://github.com/katgrose) / katgrose
