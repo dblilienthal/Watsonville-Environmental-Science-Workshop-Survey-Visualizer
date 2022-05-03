@@ -66,7 +66,7 @@ if __name__ ==  "__main__":
 
         # Showing the top n results (5 is default)
         st.sidebar.subheader('Number of results')
-        top_num_freq = st.sidebar.slider(f'Top number of results', 1, 30, 5)
+        top_num_freq = st.sidebar.slider(f'Top number of results', 1, 50, 5)
 
         # Graphing options
         st.sidebar.subheader('Graphing Options')
