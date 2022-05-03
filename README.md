@@ -8,3 +8,10 @@ Link to app: https://share.streamlit.io/dblilienthal/watsonville-environmental-s
 <img src='WESW Logo.png'>
 
 Link to workshop site: https://www.watsonvillescienceworkshop.com/
+
+<hr>
+
+## Project Team
+Derek Lilienthal
+Kathryn Gross
+Andrew Cline
