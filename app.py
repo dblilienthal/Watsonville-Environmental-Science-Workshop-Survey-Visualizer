@@ -3,8 +3,6 @@ from numpy import size
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-import numpy as np
-plt.style.use('seaborn-colorblind')
  
 STYLE = """
 <style>
@@ -37,13 +35,12 @@ class FileUpload(object):
 
  
 if __name__ ==  "__main__":
-    plt.style.use('seaborn-colorblind')
 
     # Logo
     st.image('./WESW Logo.png')
     
     # Title
-    st.header("Watsonville Environmental Workshop Monthly Report Visualizer")
+    st.header("Watsonville Environmental Workshop Survey Visualizer")
 
     helper = FileUpload()
     data = helper.run()
