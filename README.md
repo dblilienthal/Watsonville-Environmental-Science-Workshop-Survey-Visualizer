@@ -49,3 +49,7 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 - [Derek Lilienthal](https://github.com/dblilienthal) / dblilienthal
 - [Andrew Cline](https://github.com/andrew-m-cline) / andrew-m-cline
 - [Kathryn Grose](https://github.com/katgrose) / katgrose
+
+<hr>
+
+*if the app no longer works for whatever reason in the future, email me at dlilienth@gmail.com and I will take a look and get it fixed*
