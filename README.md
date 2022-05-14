@@ -15,11 +15,23 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 1. Go to <a href="https://share.streamlit.io/dblilienthal/watsonville-environmental-science-workshop-survey-visualizer/main/app.py"> this link </a>
 
-<img src="img/Home Page.png" width=300 height=300>
+<img src="img/Home Page.png" width=500 height=500>
 
-2. Download your Google Sheets responses
+2. Download your Google Sheets responses as a CSV file
 
-<img src="img/Responses.png" width=300 height=300>
+<img src="img/Responses.png" width=500 height=100> 
+
+<img src="img/Downloading.png" width=500 height=500>
+
+3. Upload your downloaded CSV file into the website
+
+4. Select the time column and the column you want to visualize
+
+5. Select the time frame in which you want to see your results
+
+6. Hit 'Make Graph'
+
+7. Play with the parameters to adjust the way the graph looks
 
 <hr>
 
