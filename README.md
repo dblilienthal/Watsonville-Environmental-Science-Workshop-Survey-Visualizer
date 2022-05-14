@@ -41,6 +41,8 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 7. Play with the parameters to adjust the way the graph looks
 
+<img src="img/Graph Options.png" width=500 height=700>
+
 <hr>
 
 ## Project Team
