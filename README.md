@@ -25,7 +25,7 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 3. Upload your downloaded CSV file into the website
 
-<img src="img/Uploading Data.png" width=500 height=300>
+<img src="img/Uploading Data.png" width=500 height=200>
 
 4. Select the time column and the column you want to visualize
 
@@ -33,11 +33,11 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 5. Select the time frame in which you want to see your results
 
-<img src="img/Dates.png" width=500 height=500>
+<img src="img/Dates.png" width=500 height=400>
 
 6. Hit 'Make Graph'
 
-<img src="img/Graph.png" width=200 height=200>
+<img src="img/Graph.png" width=200 height=100>
 
 7. Play with the parameters to adjust the way the graph looks
 
