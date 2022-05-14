@@ -11,6 +11,14 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 <hr>
 
+## Instructions on how to use
+
+1. Go to <a href="https://share.streamlit.io/dblilienthal/watsonville-environmental-science-workshop-survey-visualizer/main/app.py"> this link </a>
+
+<img src="img/Home Page.png">
+
+<hr>
+
 ## Project Team
 - [Derek Lilienthal](https://github.com/dblilienthal) / dblilienthal
 - [Andrew Cline](https://github.com/andrew-m-cline) / andrew-m-cline
