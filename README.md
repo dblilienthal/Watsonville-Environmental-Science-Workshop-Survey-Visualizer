@@ -15,7 +15,11 @@ Link to workshop site: https://www.watsonvillescienceworkshop.com/
 
 1. Go to <a href="https://share.streamlit.io/dblilienthal/watsonville-environmental-science-workshop-survey-visualizer/main/app.py"> this link </a>
 
-<img src="img/Home Page.png" width=100 height=100>
+<img src="img/Home Page.png" width=300 height=300>
+
+2. Download your Google Sheets responses
+
+<img src="img/Responses.png" width=300 height=300>
 
 <hr>
 
